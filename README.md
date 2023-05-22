@@ -12,5 +12,8 @@ steps
 5) Open Visual studio and send any "Hello World"
 
 - Mountainer boards
-
+  - USB/NET - Short 3v3 + P8 (Socket 8)
+  - Follow the same previous procedure from steep 3
+  
 - STM32F4-Discovery
+  - Use CubeProgrammer with ST-LINK to download nanoBoot.hex and nanoCLR.hex
